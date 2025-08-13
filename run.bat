@@ -1,3 +1,3 @@
 @echo off
-streamlit run "C:\Users\ASin\Documents\new-constituent\apprun.py"
+streamlit run "C:\Users\ASin\Documents\new-constituent\app1.py"
 pause
